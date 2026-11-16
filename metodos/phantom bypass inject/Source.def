@@ -1,0 +1,7 @@
+EXPORTS
+    Rundll32Function
+    DllRegisterServer PRIVATE
+    DllUnregisterServer PRIVATE
+    DllInstall PRIVATE
+    DllCanUnloadNow=ExDllCanUnloadNow PRIVATE
+    DllGetClassObject=ExDllGetClassObject PRIVATE

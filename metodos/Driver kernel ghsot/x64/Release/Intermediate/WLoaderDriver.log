@@ -1,0 +1,12 @@
+﻿  Driver.c
+C:\Users\User\ai_completion\Desktop\mysource\src\Driver\Driver.c : warning C4117: nome de macro '_KERNEL_MODE' é reservado, '#define' ignorado
+C:\Users\User\ai_completion\Desktop\mysource\src\Driver\Driver.c(18,2): warning C4273: 'PsLookupProcessByProcessId': vínculo de dll inconsistente
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\km\ntifs.h(19685,1): message : consulte a definição anterior de 'PsLookupProcessByProcessId'
+C:\Users\User\ai_completion\Desktop\mysource\src\Driver\Driver.c(220,59): warning C4018: '<=': incompatibilidade de signed/unsigned
+C:\Users\User\ai_completion\Desktop\mysource\src\Driver\Driver.c(226,60): warning C4018: '<=': incompatibilidade de signed/unsigned
+C:\Users\User\ai_completion\Desktop\mysource\src\Driver\Driver.c(588,1): warning C4005: 'USN_DELETE_FLAG_DELETE': redefinição de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\km\ntifs.h(9091): message : consulte a definição anterior de 'USN_DELETE_FLAG_DELETE'
+C:\Users\User\ai_completion\Desktop\mysource\src\Driver\Driver.c(589,1): warning C4005: 'USN_DELETE_FLAG_NOTIFY': redefinição de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\km\ntifs.h(9092): message : consulte a definição anterior de 'USN_DELETE_FLAG_NOTIFY'
+C:\Users\User\ai_completion\Desktop\mysource\src\Driver\Driver.c(891,41): warning C4244: '=': conversão de 'ULONG' para 'USHORT', possível perda de dados
+  WLoaderDriver.vcxproj -> C:\Users\User\ai_completion\Desktop\mysource\src\Driver\x64\Release\WLoaderDriver.sys
